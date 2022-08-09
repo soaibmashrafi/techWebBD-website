@@ -1,4 +1,25 @@
 .carousel-caption {
 
-    margin-bottom: 15%;
+    margin: 1%;
+    margin-bottom: 14%;
+}
+
+.card-body {
+    align-items: center !important;
+}
+
+h5.card-title {
+    margin: 0px !important;
+}
+
+p.card-text {
+    margin: auto !important;
+}
+
+p.text-primary.fw-bold {
+    margin: 0px !important;
+}
+
+.mt-n1 {
+    margin-top: -0.25rem !important;
 }
