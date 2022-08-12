@@ -37,3 +37,35 @@ p.text-primary.fw-bold {
 .row>* {
     padding-right: 0px !important;
 }
+
+.footer {
+    color: aliceblue;
+    background-color: black;
+    width: 100%;
+    height: 300px;
+    text-align: center;
+    margin-top: 100px;
+    padding: 100px;
+
+}
+
+.footer h1 {
+    margin-bottom: 30px;
+}
+
+.footer-link {
+    margin: 25px;
+    height: auto;
+}
+
+.footer-link a {
+    color: greenyellow;
+}
+
+.footer a {
+    padding: 10px;
+}
+
+.social-icon a {
+    color: rgb(255, 255, 255);
+}
