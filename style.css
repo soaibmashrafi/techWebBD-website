@@ -50,16 +50,8 @@ p.text-primary.fw-bold {
 }
 
 .footer h1 {
-    margin-bottom: 30px;
-}
-
-.footer-link {
-    margin: 25px;
-    height: auto;
-}
-
-.footer-link a {
-    color: greenyellow;
+    margin: 30px;
+    padding-top: 30px;
 }
 
 .footer a {
